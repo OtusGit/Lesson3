@@ -15,10 +15,10 @@
 }
 
 .item {
-    border: 1px solid #000;
+    border: 2px solid #000;
     width: 350px;
     height: 350px;
-    margin-bottom: 10px;
+    margin-bottom: 20px;
 }
 
 .footer {
