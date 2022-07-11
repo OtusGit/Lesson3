@@ -32,3 +32,13 @@
     flex-wrap: wrap;
     justify-content: space-between;
 }
+
+.button {
+    width: 100px;
+    height: 40px;
+    background-color: darkviolet;
+    color: #FFFFFF;
+    margin: 200px auto 0;
+    text-align: center;
+    line-height: 40px;
+}
